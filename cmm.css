@@ -1,0 +1,25 @@
+
+.ttl {
+    text-align: center;
+    color: darkblue;
+    font-family: cursive;
+    font-size: large;
+    font-weight: 100%;
+}
+div {
+    float: left;
+    padding: 15px;
+}
+
+video {
+    border: 1px solid black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+input.search {
+    width: 260px;
+    border: 1px solid #555;
+    display: block;
+    padding: 9px 4px 9px 40px;
+    background: transparent url("/assets/search.svg") no-repeat 13px;
+}
